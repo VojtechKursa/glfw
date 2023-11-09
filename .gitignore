@@ -62,6 +62,7 @@ src/libglfw.dylib
 src/libglfw.3.dylib
 src/libglfw.3.4.dylib
 src/libglfw3.a
+src/libglfw3d.a
 src/glfw3.lib
 src/glfw3.dll
 src/glfw3dll.lib
